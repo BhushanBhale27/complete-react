@@ -1,0 +1,25 @@
+{
+  "name": "ep2_ignition_our_app",
+  "version": "1.0.0",
+  "description": "complete-react",
+  "homepage": "https://github.com/BhushanBhale27/complete-react#readme",
+  "bugs": {
+    "url": "https://github.com/BhushanBhale27/complete-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhushanBhale27/complete-react.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
